@@ -1,5 +1,5 @@
 import subprocess 
-git_command1 = "git checkout main" 
+git_command1 = "git checkout master" 
 git_command2 = "git branch develop" 
 git_command3 = "git checkout develop" 
 try: 
